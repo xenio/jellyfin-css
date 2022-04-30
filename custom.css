@@ -14,6 +14,8 @@ body, h1, h2, h3, h4,*  {
   }
 }
 
+@import url("https://prayag17.github.io/Jellyfin-Icons/Font%20Awesome/light.css");
+
 ::-moz-selection {
     background: #aa5cc3;
     text-shadow: none;
